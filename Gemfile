@@ -38,6 +38,10 @@ gem "sassc-rails", ">= 2.1.0"
 gem "jquery-rails"
 gem "bcrypt", "~> 3.1", ">= 3.1.13"
 gem "pry-byebug", "~> 3.8"
+gem "faker", "~> 2.10", ">= 2.10.1"
+
+gem "will_paginate", "~> 3.2", ">= 3.2.1"
+gem "bootstrap-will_paginate", "~> 1.0"
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", ">= 1.1.0", require: false
 
