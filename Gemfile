@@ -42,6 +42,8 @@ gem "faker", "~> 2.10", ">= 2.10.1"
 
 gem "will_paginate", "~> 3.2", ">= 3.2.1"
 gem "bootstrap-will_paginate", "~> 1.0"
+gem "carrierwave", "~> 2.1"
+gem "mini_magick", "~> 4.10", ">= 4.10.1"
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", ">= 1.1.0", require: false
 
